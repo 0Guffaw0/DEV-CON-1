@@ -20,7 +20,7 @@ The game would have players platforming upwards (think *Doodle Jump*, *Kid Icaru
 *Bonus:* - Looping fire sprite animation - "Woosh" sound when activating wind gust - Multiple levels - Other razzle dazzle!
 
 **Sources:**
-*An area to keep track of sources (just jot down a name and a link)*
+Code provided by Mark Shannelly during Applications of Game Engines. "PlayerFollow" script used for camera tracking of the player, and "Player" script used for 2D movement.
 
 Base Assets:
 
