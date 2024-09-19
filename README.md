@@ -1,58 +1,66 @@
 # DEV-CON-1
 The GDD for our first Development Contract (Mohawk College, GAME-10016-02) as well as the files/code/etc.
 
-DEV-CON 1: THE GDD ZONE
+## DEV-CON 1: THE GDD ZONE 
 
-Vision:
-The player would control a little fire sprite making it's way up a chimney, collecting soot. The fire sprite can move left and right, but can't jump - instead, they can travel on gusts of air (using the space bar). 
+**Vision:**
+The player would control a little fire sprite making it's way up a chimney, collecting soot. The fire sprite can move left and right, but can't jump - instead, they can travel on gusts of air (using the space bar). This mechanic would likely fit best in a simplistic platformer, with puzzle potential. 
 
-Goals:
-QUESTION: Is this "air draft propulsion" concept viable for a fun platformer?
-WHY: "Upwardly-mobile" type platformers often involve planning how you jump very strategically, sometimes to the point of frustration (you can see this very well in a game like Jump King). If we added a form of propulsion that was not easily able to be calculated the same way a traditional platformer jump can, would that add even more frustration to the experience or be freeing to the player?
+**Goals:**
+QUESTION: In what ways is an "air draft propulsion" concept enjoyable?
+WHY: If we added a form of propulsion that was not easily able to be calculated the same way a traditional platformer-type jump can, in what ways could this be enjoyable (outside of how enjoyable regular platform jumping is)? Would this add an interesting level of difficulty? Would it be novel enough to last over multiple levels? Would this create a constraint that might encourage interesting level design?
 
-Mechanics:
-The game would have players platforming upwards (think Doodle Jump, Kid Icarus, etc.) towards an end goal. The PC can move left and right but can't jump, and are instead pushed upwards by gusts of air (space bar). The PC collects soot, which would fuel these hot air drafts needed to move upwards. 
-The "innovate mechanic" in this instance is the air draft propulsion mechanic. 
+**Mechanics:**
+The game would have players platforming upwards (think *Doodle Jump*, *Kid Icarus*, etc.) towards an end goal. The PC can move left and right but can't jump, and are instead pushed upwards by gusts of air (space bar). The PC collects soot, which acts as a key-and-gate system per level - collect all the soot, and you can exit to the next level. The "innovate mechanic" in this instance is the air draft propulsion mechanic. 
 
-Sources:
-An area to keep track of sources (just jot down a name and a link)
+**Sources:**
+*An area to keep track of sources (just jot down a name and a link)*
 
-Rough Notes:
-(This is for our rough notes taken during meetings/class/etc. as it relates to the contract. As such, optimal formatting is not a priority here - copy and paste as you like!)
-CONTROLLING AIR FLOW FOR THE FIRE? Still left and right to move, but space controls an airdraft?
-Space is negative gravity
-Follow cam
-Box on each platform that is not affected by gravity (so you dont shoot up when the draft is below a platform)
+Base Assets:
 
-Rocket LAUNCH
-Propulsion via weapon 
-Pogo stick?
-gun/rocket launcher etc
-Breakable platforms
-Dissolving, breaking apart 
-Physics
-2D or 3D?
-Kid icarus upwards momentum 
+-[2D Dungeon Pixel Art Tileset by Zhivko Minchev](https://assetstore.unity.com/packages/2d/environments/2d-dungeon-pixel-art-tileset-171343)
+-[Free 2D Mega Pack by Brackeys](https://assetstore.unity.com/packages/2d/free-2d-mega-pack-177430#content)
+
+Bonus Assets:
+
+-[RPG Essentials Sound Effects - FREE! by leohpaz](https://assetstore.unity.com/packages/audio/sound-fx/rpg-essentials-sound-effects-free-227708)
+-[Pixel FX - Fire by Admurin](https://assetstore.unity.com/packages/vfx/pixel-fx-fire-221146)
 
 
-Player movement/weapons/the world?
+**Rough Notes:**
+*(This is for our rough notes taken during meetings/class/etc. as it relates to the contract. As such, optimal formatting is not a priority here - copy and paste as you like!)*
 
-Weather? Moon physics, etc
-Weather platform, changing temp? Water, the sun, ice, etc
-Area is hot, so you need to find water bottles around the map?
-Grappling hook? jetpack?
-Water = movement? The sun makes a (plant) character bigger or smaller based on exposure 
-Resource/fuel = upward propulsion through level
-Main mechanic = heat? Moving fire attempting to access wood 
+- CONTROLLING AIR FLOW FOR THE FIRE? Still left and right to move, but space controls an airdraft?
+- Space is negative gravity
+- Follow cam
+- Box on each platform that is not affected by gravity (so you dont shoot up when the draft is below a platform)
 
-Fire moving up, getting fuel 
-Doodle jump-like
-Unity fire, log assets, etc
-Can fire destroy the past platforms?
-Going up a chimney, getting soot?
-Unity
+- Rocket LAUNCH
+- Propulsion via weapon...Pogo stick?
+- gun/rocket launcher etc
+- Breakable platforms
+- Dissolving, breaking apart Physics
+- 2D or 3D?
+- Kid icarus upwards momentum 
 
-What is the question:
 
-Can we “spice up” movement?
-Can we innovate on movement?
+- Player movement/weapons/the world?
+
+- Weather? Moon physics, etc. Weather platform, changing temp? Water, the sun, ice, etc
+- Area is hot, so you need to find water bottles around the map?
+- Grappling hook? jetpack?
+- Water = movement? The sun makes a (plant) character bigger or smaller based on exposure 
+- Resource/fuel = upward propulsion through level
+- Main mechanic = heat? Moving fire attempting to access wood 
+
+- Fire moving up, getting fuel 
+- Doodle jump-like
+- Unity fire, log assets, etc
+- Can fire destroy the past platforms?
+- Going up a chimney, getting soot?
+- Unity
+
+- What is the question:
+
+- Can we “spice up” movement?
+- Can we innovate on movement? 
