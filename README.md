@@ -7,11 +7,17 @@ The GDD for our first Development Contract (Mohawk College, GAME-10016-02) as we
 The player would control a little fire sprite making it's way up a chimney, collecting soot. The fire sprite can move left and right, but can't jump - instead, they can travel on gusts of air (using the space bar). This mechanic would likely fit best in a simplistic platformer, with puzzle potential. 
 
 **Goals:**
-QUESTION: In what ways is an "air draft propulsion" concept enjoyable?
-WHY: If we added a form of propulsion that was not easily able to be calculated the same way a traditional platformer-type jump can, in what ways could this be enjoyable (outside of how enjoyable regular platform jumping is)? Would this add an interesting level of difficulty? Would it be novel enough to last over multiple levels? Would this create a constraint that might encourage interesting level design?
+
+*QUESTION:* In what ways is an "air draft propulsion" concept enjoyable?
+
+*WHY:* If we added a form of propulsion that was not easily able to be calculated the same way a traditional platformer-type jump can, in what ways could this be enjoyable (outside of how enjoyable regular platform jumping is)? Would this add an interesting level of difficulty? Would it be novel enough to last over multiple levels? Would this create a constraint that might encourage interesting level design?
 
 **Mechanics:**
-The game would have players platforming upwards (think *Doodle Jump*, *Kid Icarus*, etc.) towards an end goal. The PC can move left and right but can't jump, and are instead pushed upwards by gusts of air (space bar). The PC collects soot, which acts as a key-and-gate system per level - collect all the soot, and you can exit to the next level. The "innovate mechanic" in this instance is the air draft propulsion mechanic. 
+The game would have players platforming upwards (think *Doodle Jump*, *Kid Icarus*, etc.) towards an end goal. The PC can move left and right but can't jump, and are instead pushed upwards by gusts of air (space bar). The PC collects soot, which acts as a key-and-gate system per level - collect all the soot, and you can exit to the next level. The "innovate mechanic" in this instance is the air draft propulsion mechanic.
+
+*Priority:* - Working updraft Mechanic - Baseline Platforming (left and right movement, working platforms) - K&G mechanic in regards to soot collection - Follow Cam.
+
+*Bonus:* - Looping fire sprite animation - "Woosh" sound when activating wind gust - Multiple levels - Other razzle dazzle!
 
 **Sources:**
 *An area to keep track of sources (just jot down a name and a link)*
