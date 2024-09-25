@@ -54,7 +54,7 @@ public class Player : MonoBehaviour
         }
         else
         {
-            rb2d.gravityScale = 1;
+            rb2d.gravityScale = 5;
         }
     }
 
